@@ -1,5 +1,5 @@
 # 1.3-Sensores-a-Exponer
-Slide switch
+## Slide switch
 
 >¿Que es un Slide switch?
 
